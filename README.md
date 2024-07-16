@@ -6,7 +6,7 @@
 
  <a href="https://github.com/spring-projects/spring-security/pulls?q=is%3Apr+author%3Akse-music+is%3Aclosed">
   <picture>
-    <img alt="ksemusic's GitHub Stats." src="https://github-stats.liuli.lol/api?username=kse-music&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
+    <img alt="ksemusic's GitHub Stats." src="https://github-readme-stats.vercel.app/api?username=kse-music&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true">
   </picture>
 </a>
 
