@@ -10,6 +10,7 @@
   </picture>
 </a>
 
+![DingHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kse-music&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
 <!--
 **kse-music/kse-music** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![DingHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kse-music&show_icons=true&theme=tokyonight&count_private=true)
