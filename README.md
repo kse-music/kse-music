@@ -1,8 +1,9 @@
 ### 👋 Hi there, I'm ksemusic
 
-- 🍤🍻 Back-end architect
-- 🍓🥝  Open source enthusiast
-- 🏔 I like natural scenery
+- 🍤 Back-end architect
+- 🍓 Open source enthusiast
+- 👯 I’m looking to collaborate on <b>Open Source project</b>
+- 🏔  I like natural scenery
 
 
 ![DingHao's GitHub stats](https://github-readme-stats.vercel.app/api?username=kse-music&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
